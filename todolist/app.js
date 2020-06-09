@@ -172,7 +172,7 @@ const tasks = [
     const bodyValue = inputBody.value;
 
     if (!titleValue || !bodyValue) {
-      alert('Пожалуйста введите title и body');
+      alert('Please, enter title и body');
       return;
     }
 
